@@ -8,6 +8,11 @@ gcloud beta pubsub topics create exampleTopic
  gcloud help beta pubsub topics create
 ```
 
+List pubsub subscriptions 
+```
+gcloud beta pubsub subscriptions list
+```
+
 
 Run the following command to create a subscription for the exampleTopic created previously:
 ```
